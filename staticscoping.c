@@ -14,7 +14,7 @@ int main(){
 
 int fun1(int b){
 
-    b = a+10;
+    b = b+10;
     b = fun2(b);
     return b;
 }
