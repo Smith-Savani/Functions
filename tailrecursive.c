@@ -16,3 +16,5 @@ int main(){
     fun(5);
     return 0;
 }
+
+//recursive programs require more stack space than iterative programs.
